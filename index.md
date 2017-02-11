@@ -2,28 +2,44 @@
 
 ✉ tiago@3visoes.com.br
 
-Back-end Engineering is my speciality and passion. I build api and apps with complex requirements. I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and tests are very very important for quality. I use Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis, Jira/Pivotal.
+Software Engineering is my speciality and passion. I build api and apps with complex requirements. I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and tests are very important for quality. I use Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis, Jira/Pivotal.
 
-### Over 12+ Years of experience Building Web Applications
+### Over 13+ Years of experience Building Web Applications
 
 - Planning of large Back-end architectures
-- Back-end development and complex RESTful API’s
-- Graph Database like OrientDB (Yes I know it)
-- Always Test first by using BDD
-- Professionalism and Persistence for learning
+- Back-end development and RESTful API’s
+- Hands-on approach to develop practical solutions together with marketing, product development and operations
+- Experience with lean development tools and processes
+- Extensive knowledge of OOP and Software Design Patterns
+- Critical judgement in the workplace
+- Great team spirit
+- Good communication skills to explain complex technical facts to non-technical colleagues in English
+- Experience with Remote Work Abroad
+- Great debugging skills and a quick learner and quick thinker
 
 ### Specialties
 
-- Deep experience by using NodeJS/RxJS and Graph Database for APis
-- Experience by using React and Redux on client-side
-- Several years by using dynamic oriented object languages such as: PHP and Ruby
-- I know the difference between functional style and oriented object style
-- Immutability and Functional Programming experience such as: Elixir/Phoenix Framework
+- Information Security on RESTful API’s
+- Full Stack (MongoDB | OrientDB, ExpressJS | Koa, AngularJS 2 | TypeScript and Nodejs | Ecma 06)
+- Modern React and Redux Apps
+- Imperative and Functional Programming Experience such as: RamdaJS and RxJS
+- Elixir and Phoenix Framework Enthusiastic
+- Continuous Integration as an administrator level such as: Bamboo and Jenkins
+- BDD and TDD using Mocha, Chain, Sinon, Jasmine, Karma and Protractor
+- UNIX systems as an administrator level
+- Several years of PHP 5 and MySQL programming experience
+- Experience using PHP Frameworks such as: FuelPHP, CodeIgniter, Kohana and Laravel
+- Experience working as a Professional Ruby On Rails Developer
+- Experience working with relational databases (particularly MySQL and PostgreSQL)
+- Experience using GIT, Heroku, Github and Bitbucket
+- Good knowledge of modern client-side technologies (HTML5, CSS3, Type|JavaScript)
 
 ### Recent Hobby Projects
 
 - https://github.com/tiagodavi/flashcard-app
 - https://github.com/tiagodavi/nodejs-contatooh-app
+- https://github.com/tiagodavi/livro-elixir-demo-1
+- https://github.com/tiagodavi/rumbl
 
 ### Education Background
 
@@ -42,7 +58,7 @@ Back-end Engineering is my speciality and passion. I build api and apps with com
 
 ### Professional Experience
 
-#### Techifide (United Kingdom) from July 2016 to Current as Javascript Developer
+#### Techifide (United Kingdom) from July 2016 to Current as Lead Developer
 
 - Experience with international teams
 - NodeJS/RxJS for APis
