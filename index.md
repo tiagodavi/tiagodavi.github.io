@@ -20,7 +20,7 @@ Software Engineering is my speciality and passion. I build api and apps with com
 ### Specialties
 
 - Information Security on RESTful API’s
-- Full Stack (MongoDB | OrientDB, ExpressJS | Koa, AngularJS 2 | TypeScript and Nodejs | Ecma 06)
+- Full Stack (MongoDB / OrientDB, ExpressJS / Koa, AngularJS 2 / TypeScript and Nodejs / Ecma 06)
 - Modern React and Redux Apps
 - Imperative and Functional Programming Experience such as: RamdaJS and RxJS
 - Elixir and Phoenix Framework Enthusiastic
@@ -32,7 +32,7 @@ Software Engineering is my speciality and passion. I build api and apps with com
 - Experience working as a Professional Ruby On Rails Developer
 - Experience working with relational databases (particularly MySQL and PostgreSQL)
 - Experience using GIT, Heroku, Github and Bitbucket
-- Good knowledge of modern client-side technologies (HTML5, CSS3, Type|JavaScript)
+- Good knowledge of modern client-side technologies (HTML5, CSS3, Type/JavaScript)
 
 ### Recent Hobby Projects
 
