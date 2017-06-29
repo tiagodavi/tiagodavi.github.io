@@ -37,6 +37,7 @@ Software Engineering is my speciality and passion. I build api and apps with com
 
 ### Recent Book
 - I wrote the first Elixir Book in Portuguese
+
 https://www.casadocodigo.com.br/products/livro-elixir
 
 ### Recent Hobby Projects
