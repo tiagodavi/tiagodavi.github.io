@@ -2,7 +2,7 @@
 
 ✉ tiago@3visoes.com.br
 
-Software Engineering is my speciality and passion. I build api and apps with complex requirements. I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and tests are very important for quality. I use Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis, Jira/Pivotal.
+Software Engineering is my speciality and passion. I build api and apps with complex requirements. I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and tests are very important for quality. I use Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams.
 
 ### Over 13+ Years of experience Building Web Applications
 
@@ -13,26 +13,31 @@ Software Engineering is my speciality and passion. I build api and apps with com
 - Extensive knowledge of OOP and Software Design Patterns
 - Critical judgement in the workplace
 - Great team spirit
-- Good communication skills to explain complex technical facts to non-technical colleagues in English
 - Experience with Remote Work Abroad
 - Great debugging skills and a quick learner and quick thinker
 
 ### Specialties
 
-- Information Security on RESTful API’s
-- Full Stack (MongoDB / OrientDB, ExpressJS / Koa, AngularJS 2 / TypeScript and Nodejs / Ecma 06)
-- Modern React and Redux Apps
-- Imperative and Functional Programming Experience such as: RamdaJS and RxJS
-- Elixir and Phoenix Framework Enthusiastic
+- Elixir/OTP, ExUnit and Phoenix Framework Experience
+- GraphQl such as: Apollo Client and Absinthe (Elixir)
+- Graph Database (OrientDB)
+- RESTful API’s
+- Experience building Python APIs using Flask Framework
+- Experience using GIT, Heroku, Github and Bitbucket in a Team
+- JavaScript in Advanced level (Ecma 06 and beyond)
+- Full Stack (MongoDB, ExpressJS, AngularJS 2, Modern React/Redux and Nodejs Apps)
+- BDD and TDD using Mocha, Chain, Sinon, Jasmine, Karma, Jest and ExUnit
+- Functional Programming Experience using RamdaJS and RxJS
 - Continuous Integration as an administrator level such as: Bamboo and Jenkins
-- BDD and TDD using Mocha, Chain, Sinon, Jasmine, Karma and Protractor
-- UNIX systems as an administrator level
+- UNIX systems as an administrator level (Nginx/Cluster/Scalability)
 - Several years of PHP 5 and MySQL programming experience
-- Experience using PHP Frameworks such as: FuelPHP, CodeIgniter, Kohana and Laravel
-- Experience working as a Professional Ruby On Rails Developer
+- Experience using PHP Frameworks such as: FuelPHP, CodeIgniter, Laravel
 - Experience working with relational databases (particularly MySQL and PostgreSQL)
-- Experience using GIT, Heroku, Github and Bitbucket
 - Good knowledge of modern client-side technologies (HTML5, CSS3, Type/JavaScript)
+
+### Recent Book
+- I wrote the first Elixir Book in Portuguese
+https://www.casadocodigo.com.br/products/livro-elixir
 
 ### Recent Hobby Projects
 
@@ -43,7 +48,6 @@ Software Engineering is my speciality and passion. I build api and apps with com
 
 ### Education Background
 
-- Postgraduate in Information Security – UNESA – 2016
 - Degree in Information Technology Management - UNESA – 2013
 
 ### Certifications
@@ -64,12 +68,14 @@ Software Engineering is my speciality and passion. I build api and apps with com
 - NodeJS/RxJS for APis
 - Graph database (OrientDB) instead of relational database
 - BDD by using Mocha/Chai/Sinon
-- Continuous Integration by using Atlassian's Bamboo
+- Continuous Integration using Atlassian's Bamboo
 - Atlassian's Jira and Bitbucket
+- Elixir/OTP/WebRTC for Distributed Applications
 
 ##### Main Results
-Sharon that is a project for regression testing and
+Sharon that is a project for regression testing.
 Qorex that is a project for controlling strategic objectives.
+BimDirect that is a project for civil construction.
 
 #### 3visões from June 2014 to July 2016 as Web Developer
 
