@@ -2,7 +2,16 @@
 
 ✉ tiago@3visoes.com.br
 
-Software Engineering is my speciality and passion. I build api and apps with complex requirements. I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and tests are very important for quality. I use Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams.
+Software Engineering is my speciality and passion. I build api and apps with complex requirements.
+
+I'm currently working on Deep Learning Techniques with Python and I've recently acquired a certification on OrientDB (Graph Database).
+
+I'm also an Elixir/Phoenix enthusiastic and I wrote the first Elixir Book in Portuguese:
+https://www.casadocodigo.com.br/products/livro-elixir
+
+I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and we should test everything to ensure quality.
+
+I'm a scrum guy who uses Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams.
 
 ### Over 13+ Years of experience Building Web Applications
 
@@ -35,16 +44,9 @@ Software Engineering is my speciality and passion. I build api and apps with com
 - Experience working with relational databases (particularly MySQL and PostgreSQL)
 - Good knowledge of modern client-side technologies (HTML5, CSS3, Type/JavaScript)
 
-### Recent Book
-- I wrote the first Elixir Book in Portuguese
-- https://www.casadocodigo.com.br/products/livro-elixir
+### Recent Real Projects
 
-### Recent Hobby Projects
-
-- https://github.com/tiagodavi/flashcard-app
-- https://github.com/tiagodavi/nodejs-contatooh-app
-- https://github.com/tiagodavi/livro-elixir-demo-1
-- https://github.com/tiagodavi/rumbl
+- https://my.bimdirect.com
 
 ### Education Background
 
@@ -52,6 +54,7 @@ Software Engineering is my speciality and passion. I build api and apps with com
 
 ### Certifications
 
+- OrientDB – 2017
 - MCTS Microsoft Project 2013 – 2014
 - MCTS Microsoft Project Server 2010 – 2014
 
