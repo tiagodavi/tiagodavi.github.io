@@ -2,16 +2,19 @@
 
 ✉ tiago@3visoes.com.br
 
-Software Engineering is my speciality and passion. I build api and apps with complex requirements.
+I am a Lead Developer with over 13+ years of experience building api and apps with complex requirements. Software Engineering is my speciality and passion and I have great experience in a different range of languages and tools such as NodeJS, RamdaJS, RxJS, Elixir, PHP and so on.
 
-I'm currently working on Deep Learning Techniques with Python and I've recently acquired a certification on OrientDB (Graph Database).
+I’m currently working on Deep Learning Techniques with Python and I’ve recently acquired a certification on OrientDB (Graph Database).
 
-I'm also an Elixir/Phoenix enthusiastic and I wrote the first Elixir Book in Portuguese:
+https://orientdb.com/academy/certificate/Davi1009.pdf
+
+I’m also an Elixir/Phoenix enthusiastic and I wrote my first Book on Elixir in Portuguese.
+
 https://www.casadocodigo.com.br/products/livro-elixir
 
-I know we don't build views inside back-end anymore, but we separate front-end (client-side) from back-end (api) and we should test everything to ensure quality.
+I know we don’t build views inside back-end anymore but we separate front-end (client-side) from back-end (api) and we should test everything to ensure quality so I also have experience with test frameworks such as Mocha, Chai, Sinon, ExUnit and so on.
 
-I'm a scrum guy who uses Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams.
+I’m a scrum guy who uses Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams but I would love to work at the office in touch with their members.
 
 ### Over 13+ Years of experience Building Web Applications
 
