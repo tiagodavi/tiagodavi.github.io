@@ -2,35 +2,37 @@
 
 ✉ tiago@3visoes.com.br
 
-I am a software engineer with over 13 years of experience building API’s and Apps. Software Engineering is my speciality and passion and I have professional experience in a different range of languages and tools such as Elixir, Phoenix, AWS Services, NodeJS, React, RxJS and so on.
+### Professional Summary
 
-I have been improving my technical skills, and I wrote my first Book on Elixir.
+I am a software engineer with over 13 years of experience building API’s and Apps. Software Engineering is my specialty and passion and I have professional experience solving complex problems in a different range of languages and tools such as Elixir, Phoenix, AWS Services, NodeJS, React, RxJS and so on.
+
+I am a quick learner who likes studying and improving every day and I wrote my first Book on Elixir.
 https://www.casadocodigo.com.br/products/livro-elixir
 
 ### My specialities include:
 
 - Planning of large Back-end architectures
-- Back-end development and RESTful API’s
+- Back-end / Front-end development and RESTful API’s
 - Hands-on approach to develop practical solutions
 - Experience with lean development tools and processes
 - Great team spirit
-- Experience with Remote Work
-- debugging skills and a quick learner and quick thinker
+- Experience with Remote Teams
+- Debugging skills
 
 ### Summary of Technologies
 
 - RESTful API’s
 - Elixir/OTP, ExUnit and Phoenix
 - Graph Databases (OrientDB/ArangoDB)
-- Experience using GIT, AWS, Github and Bitbucket
+- AWS Services, GIT, GitHub and Bitbucket
 - JavaScript in Advanced level
 - Full Stack (MongoDB, ExpressJS, Modern React/Redux and Nodejs Apps)
 - BDD and TDD using Mocha, Chain, Sinon, Jest and ExUnit
 - Functional Programming Experience using RamdaJS and RxJS
 - Continuous Integration as an administrator level
 - UNIX systems as an administrator level (Nginx/Cluster/Scalability)
-- Experience working with relational databases (particularly MySQL and PostgreSQL)
-- Good knowledge of modern client-side technologies (HTML5, CSS3, Type/JavaScript)
+- Relational databases (particularly MySQL and PostgreSQL)
+- Modern client-side technologies (HTML5, CSS3, Type/JavaScript)
 
 ### Education Background
 
