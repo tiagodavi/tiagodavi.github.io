@@ -2,54 +2,35 @@
 
 ✉ tiago@3visoes.com.br
 
-I am a Lead Developer with over 13+ years of experience building api and apps with complex requirements. Software Engineering is my speciality and passion and I have great experience in a different range of languages and tools such as NodeJS, RamdaJS, RxJS, Elixir, PHP and so on.
+I am a software engineer with over 13 years of experience building API’s and Apps. Software Engineering is my speciality and passion and I have professional experience in a different range of languages and tools such as Elixir, Phoenix, AWS Services, NodeJS, React, RxJS and so on.
 
-I’m currently working on Deep Learning Techniques with Python and I’ve recently acquired a certification on OrientDB (Graph Database).
-
-https://orientdb.com/academy/certificate/Davi1009.pdf
-
-I’m also an Elixir/Phoenix enthusiastic and I wrote my first Book on Elixir in Portuguese.
-
+I have been improving my technical skills, and I wrote my first Book on Elixir.
 https://www.casadocodigo.com.br/products/livro-elixir
 
-I know we don’t build views inside back-end anymore but we separate front-end (client-side) from back-end (api) and we should test everything to ensure quality so I also have experience with test frameworks such as Mocha, Chai, Sinon, ExUnit and so on.
-
-I’m a scrum guy who uses Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Jira in remote teams but I would love to work at the office in touch with their members.
-
-### Over 13+ Years of experience Building Web Applications
+### My specialities include:
 
 - Planning of large Back-end architectures
 - Back-end development and RESTful API’s
-- Hands-on approach to develop practical solutions together with marketing, product development and operations
+- Hands-on approach to develop practical solutions
 - Experience with lean development tools and processes
-- Extensive knowledge of OOP and Software Design Patterns
-- Critical judgement in the workplace
 - Great team spirit
-- Experience with Remote Work Abroad
-- Great debugging skills and a quick learner and quick thinker
+- Experience with Remote Work
+- debugging skills and a quick learner and quick thinker
 
-### Specialties
+### Summary of Technologies
 
-- Elixir/OTP, ExUnit and Phoenix Framework Experience
-- GraphQl such as: Apollo Client and Absinthe (Elixir)
-- Graph Database (OrientDB)
 - RESTful API’s
-- Experience building Python APIs using Flask Framework
-- Experience using GIT, Heroku, Github and Bitbucket in a Team
-- JavaScript in Advanced level (Ecma 06 and beyond)
-- Full Stack (MongoDB, ExpressJS, AngularJS 2, Modern React/Redux and Nodejs Apps)
-- BDD and TDD using Mocha, Chain, Sinon, Jasmine, Karma, Jest and ExUnit
+- Elixir/OTP, ExUnit and Phoenix
+- Graph Databases (OrientDB/ArangoDB)
+- Experience using GIT, AWS, Github and Bitbucket
+- JavaScript in Advanced level
+- Full Stack (MongoDB, ExpressJS, Modern React/Redux and Nodejs Apps)
+- BDD and TDD using Mocha, Chain, Sinon, Jest and ExUnit
 - Functional Programming Experience using RamdaJS and RxJS
-- Continuous Integration as an administrator level such as: Bamboo and Jenkins
+- Continuous Integration as an administrator level
 - UNIX systems as an administrator level (Nginx/Cluster/Scalability)
-- Several years of PHP 5 and MySQL programming experience
-- Experience using PHP Frameworks such as: FuelPHP, CodeIgniter, Laravel
 - Experience working with relational databases (particularly MySQL and PostgreSQL)
 - Good knowledge of modern client-side technologies (HTML5, CSS3, Type/JavaScript)
-
-### Recent Real Projects
-
-- https://my.bimdirect.com
 
 ### Education Background
 
@@ -63,7 +44,7 @@ I’m a scrum guy who uses Slack/Hangout, Bitbucket/GitHub, Bamboo/Travis and Ji
 
 ### Languages
 
-- English: Advanced Basic Skills (Tested by Truman College in Chicago USA)
+- English: Advanced Skills (Tested by Truman College in Chicago USA)
 - Portuguese: Native
 
 ### Professional Experience
