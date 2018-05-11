@@ -1,38 +1,38 @@
 ### Personal Details
 
-✉ tiago@3visoes.com.br
+✉  tiago.asp.net@gmail.com | Skype ID: tiago.asp.net
 
 ### Professional Summary
 
-I am a software engineer with over 13 years of experience building API’s and Apps. Software Engineering is my specialty and passion and I have professional experience solving complex problems in a different range of languages and tools such as Elixir, Phoenix, AWS Services, NodeJS, React, RxJS and so on.
+Full Stack developer with 13 years of experience delivering successful products. At my last company (Techifide), I was responsible for building an API service for a BIM system that was awarded at the British market in London for its expressive results. At Profile Design I built a system to monitor traffic accidents for the government and this system has been used for several companies to avoid new accidents.
 
-I am a quick learner who likes studying and improving every day and I wrote my first Book on Elixir.
+As a temporary worker, the most recent product I’ve created was an Elixir/Phoenix API that uses DynamoDB and Recognition systems from Amazon to avoid financial cheats for a Fintech company based in Brazil (http://useniq.com).
+
+I am also glad to show my first Book on Elixir and my most recent certification on Graph Databases:
+
 https://www.casadocodigo.com.br/products/livro-elixir
+https://orientdb.com/academy/certificate/Davi1009.pdf
 
-### My specialities include:
+### My specialities include
 
-- Planning of large Back-end architectures
-- Back-end / Front-end development and RESTful API’s
-- Hands-on approach to develop practical solutions
-- Experience with lean development tools and processes
-- Great team spirit
-- Experience with Remote Teams
-- Debugging skills
+- Planning of large Back-end architectures especially using Elixir and NodeJS.
+- Full Stack development and RESTful API’s.
+- Hands-on approach to develop practical solutions.
+- Experience with lean development tools and processes.
+- Great team spirit.
+- Experience with Remote Teams.
 
 ### Summary of Technologies
 
-- RESTful API’s
-- Elixir/OTP, ExUnit and Phoenix
-- Graph Databases (OrientDB/ArangoDB)
-- AWS Services, GIT, GitHub and Bitbucket
-- JavaScript in Advanced level
-- Full Stack (MongoDB, ExpressJS, Modern React/Redux and Nodejs Apps)
-- BDD and TDD using Mocha, Chain, Sinon, Jest and ExUnit
-- Functional Programming Experience using RamdaJS and RxJS
-- Continuous Integration as an administrator level
-- UNIX systems as an administrator level (Nginx/Cluster/Scalability)
-- Relational databases (particularly MySQL and PostgreSQL)
-- Modern client-side technologies (HTML5, CSS3, Type/JavaScript)
+- RESTful API’s and Microservices.
+- Strong experience in Elixir/OTP, ExUnit and Phoenix.
+- Graph Databases (OrientDB/ArangoDB).
+- AWS Services, GIT, GitHub and Atlassian Products.
+- Javascript (ExpressJS, Modern React/Redux and Nodejs Apps).
+- BDD and TDD using the most modern testing tools.
+- UNIX systems as an administrator level (Nginx/Cluster/Scalability).
+- Relational databases (particularly MySQL and PostgreSQL).
+- Modern client-side technologies (HTML5, CSS3, WebRTC).
 
 ### Education Background
 
@@ -51,55 +51,30 @@ https://www.casadocodigo.com.br/products/livro-elixir
 
 ### Professional Experience
 
-#### Techifide (United Kingdom) from July 2016 to Current as Lead Developer
+#### Techifide (United Kingdom) from July 2016 to March 2018
 
-- Experience with international teams
-- NodeJS/RxJS for APis
-- Graph database (OrientDB) instead of relational database
-- BDD by using Mocha/Chai/Sinon
-- Continuous Integration using Atlassian's Bamboo
-- Atlassian's Jira and Bitbucket
-- Elixir/OTP/WebRTC for Distributed Applications
+I worked collaboratively with designers and other developers for building two main products for this company. The first one uses NodeJS, Express, RxJS and a Graph database in order to achieve its goals and the second one uses almost the same technologies and was award for its expressive results in London. My main responsibility at this company as a lead developer was helping the team solving their obstacles while I also created the architecture of those two main systems.
 
-##### Main Results
-Sharon that is a project for regression testing.
-Qorex that is a project for controlling strategic objectives.
-BimDirect that is a project for civil construction.
+#### 3visões from June 2014 to July 2016
 
-#### 3visões from June 2014 to July 2016 as Web Developer
+My main responsibility as a senior developer was building RESTful API’s and MicroService architectures using different technologies such as Elixir, Phoenix and NodeJS to help their customers achieve their different business goals.
 
-- Ruby, PHP, C#, Rails 4.x framework, FuelPHP, ReactJS and more.
-- Analysis and understanding of clients' business.
-- International projects.
-- Development of Apis and Hybrid apps for Android, IOS and Windows Phone.
+#### Beware Consultoria from July 2012 to June 2014
 
-##### Main Results
-Development of web system solution for the multinational Tormene Americana. The goal was to
-optimize internal processes to discontinue the use of spreadsheets. This solution made it possible to centralise  the company's information in one online service that ensured fast and updated data access, cutting costs and saving time of employees who had to perform these activities manually.
+As a senior developer at Beware, I worked collaboratively with experts in projects management to help them building a digital system that was able to use the technology to manage projects in real time.
 
-#### Beware Consultoria from July 2012 to June 2014 as Web Developer
+#### Profile Design from July 2009 to July 2012
 
-- Ruby, PHP, C#, research and development of internal web systems.
-- Parameterization and customization of Microsoft EPM.
-- Wordpress and development of Plugins.
+As a senior developer at Profile Design, I helped them building several projects from small ones to more complex ones including a system to monitor traffic accident operated by the government that was a big challenge. Today this project still works receiving new features. The main technologies I used at this company were PHP, Ruby and JavaScript.
 
-##### Main Results
-Development of the system "MethodWeb". The goal was to map the processes of project
-management methodologies transforming static methods in a dynamic and adaptable way for any
-business scenario. This allowed customers to have the flexibility and ability to implement their own methodologies.
+#### Lv Design from May 2008 to July 2009
 
-#### Profile Design from July 2009 to July 2012 as Web Developer
+As a senior developer at LV Design, I helped them building one of the most important projects to manage music in Brazil that was sponsorship for a big company called TIM.
 
-- Development of systems, business sites, e-commerces and apps.
-- Analysis of business, costs and deadlines.
-- Applications in PHP, C# and Ruby.
+#### Clicksoft from August 2007 to May 2008
 
-##### Main Results
-Development of the system "PeríciaSeg".  The goal was to manage departments and information of
-the company Salek Reguladora. This system allowed the company to have an overview of the
-information of its main departments and to automate tasks optimizing the need to hire more
-employees.
+As a junior developer, I was responsible for building different projects using a different range of technologies such as PHP and Ruby. The main projects I built were e-commerces.
 
-Development of the system "Proevo DPVAT". The goal was to automate the processes required to
-deliver the DPVAT Insurance. This system helped the company to organize the information of all
-the victims of traffic accidents and also manage information of ongoing processes.
+#### T Design from June 2004 to May 2007
+
+As a developer at T Design, I helped them building websites using classic technologies such as ASP/PHP, HTML, CSS and JavaScript  in order to archive their customer’s goals.
