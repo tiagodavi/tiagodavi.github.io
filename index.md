@@ -6,7 +6,7 @@
 
 Full Stack developer with 13 years of experience delivering successful products. At my last company (Techifide), I was responsible for building an API service for a BIM system that was awarded at the British market in London for its expressive results. At Profile Design I built a system to monitor traffic accidents for the government and this system has been used for several companies to avoid new accidents.
 
-As a temporary worker, the most recent product I’ve created is an Elixir/Phoenix API that uses DynamoDB and Recognition systems from Amazon to avoid financial cheats for a Fintech company based in Brazil (http://useniq.com).
+The most recent product I’ve created is an Elixir/Phoenix API that uses Amazon DynamoDB and Recognition systems to avoid financial frauds for a Fintech company based in Brazil.
 
 I am also glad to show my first Book on Elixir and my most recent certification on Graph Databases:
 
@@ -78,4 +78,4 @@ As a junior developer, I was responsible for building different projects using a
 
 #### T Design from June 2004 to May 2007
 
-As a developer at T Design, I helped them build websites using classic technologies such as ASP/PHP, HTML, CSS and JavaScript  in order to archive their customer’s goals. 
+As a developer at T Design, I helped them build websites using classic technologies such as ASP/PHP, HTML, CSS and JavaScript  in order to archive their customer’s goals.
