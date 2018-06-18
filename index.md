@@ -4,7 +4,7 @@
 
 ### Professional Summary
 
-Back-End Developer with 13 years of experience delivering successful products. At my last company (Techifide), I was a NodeJS Developer responsible for building API services using NodeJS/RXJS/Express/OrientDB for two main projects and one of them called "BIM" was awarded at the British market in London for its expressive results. At Profile Design I built a system to monitor traffic accidents for the government and this system has been used for several companies to avoid new accidents until now.
+Back-End Developer with 13 years of experience delivering successful products. At my last company (Techifide), I was a Node JS Developer responsible for building API services using Node JS/RXJS/Express/OrientDB for two main projects and one of them called "BIM" was awarded at the British market in London for its expressive results. At Profile Design I built a system to monitor traffic accidents for the government and this system has been used for several companies to avoid new accidents until now.
 
 Currently I work for a financial company as an Elixir Developer using Elixir/Phoenix to build financial products such as Bank as a Service and Fraud Detection.
 
@@ -54,11 +54,11 @@ https://orientdb.com/academy/certificate/Davi1009.pdf
 
 #### NIQ from April 2018 to Currently
 
-As a Elixir Developer at NIQ I use Elixir/Phoenix/PostgresSQL to build financial products such as Bank as a Service, Fraud Detection and so on. My first project was an API which uses Amazon Web Services to connect to Dynamo DB and Facial Recognition to avoid financial fraud and my current project is an API to create Digital Wallets.
+As an Elixir Developer at NIQ I use Elixir/Phoenix/PostgreSQL to build financial products such as Bank as a Service, Fraud Detection and so on. My first project was an API which used Amazon Web Services to connect to DynamoDB and Facial Recognition to avoid financial fraud and my second and current project is an API to create Digital Wallets.
 
 #### Techifide (United Kingdom) from July 2016 to March 2018
 
-I worked collaboratively with designers and other developers for building two main products for this company. The first one uses NodeJS, Express, RxJS and a Graph database in order to achieve its goals and the second one uses similar technologies and was awarded for its expressive results in London. My main responsibility at this company as a lead developer was helping my team solving their obstacles while I also created the architecture of those two main systems.
+I worked collaboratively with designers and other developers for building two main products for this company. The first one used Node JS, Express, RxJS and a Graph database in order to achieve its goals and the second one used similar technologies and was awarded for its expressive results in London. My main responsibility at this company as a lead developer was helping my team solving their obstacles while I also created the architecture of those two main systems.
 
 #### 3visões from June 2014 to July 2016
 
