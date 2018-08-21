@@ -14,7 +14,7 @@ If I were to join the team, I would love to bring these skills to the table, tog
 
 ### Functional Expertise
 
-- Resilient to learn if I can't understand anything
+- Flexible to learn and change if necessary
 - Experience helping people in the team
 - Planning of large Back-end architectures
 - Full Stack development and RESTful  API’s
