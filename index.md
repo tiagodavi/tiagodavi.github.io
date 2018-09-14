@@ -4,7 +4,7 @@ E: tiago@3visoes.com.br  | T: +55 21 9 6870-4588 | https://github.com/tiagodavi
 
 ### Professional Summary
 
-Full Stack Developer with more than 10 years of relevant working experience. I am able to create APIs and Apps from scratch as well as deploy them into production.
+Backend Developer with more than 10 years of relevant working experience. I am able to create APIs and Apps from scratch as well as deploy them into production.
 
 I have already had the opportunity to work with oriented object languages such as Ruby, PHP and Python where I could understand how to use objects to build systems and I also have worked with functional paradigm using Elixir, Clojure and JavaScript (Node.js) where I have had the chance to learn how to compose functions to deliver results.
 
@@ -43,15 +43,15 @@ I worked collaboratively with experts in projects management to help them build 
 
 I helped them build several projects from trivial to more complex ones including a system to monitor traffic accident operated by the government that was a big challenge. Today this project still works receiving new features. The main technologies I used at this company were PHP, MySQL, Ruby and  JavaScript.
 
-#### Full Stack Developer at Lv Design from May 2008 to July 2009
+#### Backend Developer at Lv Design from May 2008 to July 2009
 
 I worked  collaboratively with the team to  build one of the most important projects to manage music in Brazil that was sponsorship for a big company called  TIM . I used technologies such as Ruby On Rails, PHP and MySQL.
 
-#### Full Stack Developer at Clicksoft from August 2007 to May 2008
+#### Backend Developer at Clicksoft from August 2007 to May 2008
 
 I was responsible to build different projects using a different range of technologies such as PHP and Ruby. The main projects  I helped build w  ere e-commerces.
 
-#### Front-end Developer at T Design from June 2004 to May 2007
+#### Frontend Developer at T Design from June 2004 to May 2007
 
 I helped them build websites using classic technologies such as ASP/PHP, HTML, CSS and JavaScript in order to archive their customer’s goals.
 
