@@ -4,13 +4,11 @@ E: tiago@3visoes.com.br  | T: +55 21 9 6870-4588 | https://github.com/tiagodavi
 
 ### Professional Summary
 
-Backend Developer with more than 10 years of relevant working experience. I am able to create APIs and Apps from scratch as well as deploy them into production.
+Backend Developer with more than 10 years of relevant working experience. I am able to create apps from scratch as well as deploy them to production.
 
-I have already had the opportunity to work with oriented object languages such as Ruby, PHP and Python where I could understand how to use objects to build systems and I also have worked with functional paradigm using Elixir, Clojure and JavaScript (Node.js) where I have had the chance to learn how to compose functions to deliver results.
+What makes me different are my results. I've built more than 30 projects from scratch and put them to production, some of them under budget. I was able to save money moving two big systems from shared host to only one single host on cloud, customers are very happy because of it. At one of my previous jobs, I was selected to become the Tech Lead because of my hard work and dedication. One project that I helped create when I was Tech Lead was awarded in England. I also have written a book, and I am really proud of it.
 
-Last but not least, I also have worked at the front-end level using React and React Native to build JavaScript interfaces.
-
-If I were to join the team, I would love to bring these skills to the table, together, we could improve even more the way your company is providing services.
+I am looking for a stable company where I can continue my career as Backend Developer if possible working with languages such as either Elixir, JavaScript, Ruby or Python. Please take a look at my Github Account because I have several projects there, most of them using TDD and the best practices for software engineering.
 
 ### Functional Expertise
 
