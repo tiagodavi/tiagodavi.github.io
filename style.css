@@ -1531,7 +1531,11 @@ select.form-control {
   }
 }
 
-img {
+img.badge {
+  width: 150px;
+}
+
+img.profile {
   border-radius: 50%;
   width: 150px;
 }
